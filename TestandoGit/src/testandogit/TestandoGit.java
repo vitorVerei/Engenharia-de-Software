@@ -17,7 +17,9 @@ public class TestandoGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null,"Testando o GitHub...");
+        String teste = "Testando o GitHub";
+        
+        JOptionPane.showMessageDialog(null,teste);
     }
     
 }
